@@ -1,4 +1,4 @@
-# 🚗 Car Wash Booking System - Database Design
+# Car Wash Booking System - Database Design
 
 Repo ini berisi **Entity Relationship Diagram (ERD)** dan **Laravel 12 migrations**  
 untuk sistem pemesanan layanan cuci mobil.
